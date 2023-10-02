@@ -34,7 +34,7 @@ const employees: Employee[] = [
     jobRequirements: [
       "musia variť pivo",
       "musia riadiť ľudí",
-      "musia vedieť riadiť výrobný proces",
+      "musia riadiť výrobný proces",
     ],
   },
 ];
