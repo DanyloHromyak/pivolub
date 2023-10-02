@@ -6,7 +6,7 @@ const Schedule = () => {
         a napíšte plán služobnej cesty pre svojho zamestnanca
       </h2>
       <div className="flex flex-col gap-3 max-w-lg mx-auto bg-orange-400 text-xl">
-        <img src="public\Epstein_hotel.jpg" alt="Epstein hotel" />
+        <img src="public/Epstein_hotel.jpg" alt="Epstein hotel" />
         <p className="px-4">Služobná cesta, Virgin Islands</p>
         <p className="px-4">Ubytovanie hotel "Epsteins Guest House"</p>
         <p className="px-4">
